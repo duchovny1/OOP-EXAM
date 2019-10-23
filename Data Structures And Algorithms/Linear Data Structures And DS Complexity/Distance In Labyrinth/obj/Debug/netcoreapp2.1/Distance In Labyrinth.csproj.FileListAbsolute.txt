@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\bin\Debug\netcoreapp2.1\Distance In Labyrinth.deps.json
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\bin\Debug\netcoreapp2.1\Distance In Labyrinth.runtimeconfig.json
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\bin\Debug\netcoreapp2.1\Distance In Labyrinth.runtimeconfig.dev.json
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\bin\Debug\netcoreapp2.1\Distance In Labyrinth.dll
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\bin\Debug\netcoreapp2.1\Distance In Labyrinth.pdb
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\obj\Debug\netcoreapp2.1\Distance In Labyrinth.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\obj\Debug\netcoreapp2.1\Distance In Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\obj\Debug\netcoreapp2.1\Distance In Labyrinth.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\obj\Debug\netcoreapp2.1\Distance In Labyrinth.AssemblyInfo.cs
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\obj\Debug\netcoreapp2.1\Distance In Labyrinth.dll
+C:\Users\User\source\repos\Distance In Labyrinth\Distance In Labyrinth\obj\Debug\netcoreapp2.1\Distance In Labyrinth.pdb
