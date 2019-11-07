@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Distance In Labyrinth\\Distance In Labyrinth\\Distance In Labyrinth.csproj",
-      "projectName": "Distance In Labyrinth",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Distance In Labyrinth\\Distance In Labyrinth\\Distance In Labyrinth.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Polymorphism\\Animals\\Animals.csproj",
+      "projectName": "Animals",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Polymorphism\\Animals\\Animals.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Distance In Labyrinth\\Distance In Labyrinth\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Polymorphism\\Animals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

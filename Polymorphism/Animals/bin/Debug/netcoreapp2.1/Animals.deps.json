@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "Distance In Labyrinth/1.0.0": {
+      "Animals/1.0.0": {
         "runtime": {
-          "Distance In Labyrinth.dll": {}
+          "Animals.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Distance In Labyrinth/1.0.0": {
+    "Animals/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
