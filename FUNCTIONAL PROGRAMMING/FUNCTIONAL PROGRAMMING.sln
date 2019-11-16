@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Party Reservation Filter Mode", "FUNCTIONAL PROGRAMMING\Party Reservation Filter Mode.csproj", "{5FFBA8B5-D73C-4511-AA64-AEB76C63D683}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppliedArithmetics", "Sum\AppliedArithmetics.csproj", "{7BDA2E40-E2C9-4657-90E1-DE22FE5FE89C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindEvenOrOdds", "FindEvenOrOdds\FindEvenOrOdds.csproj", "{D0D0CB87-84B6-4DAB-BA72-78999E9F234D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriFunction", "TriFunction\TriFunction.csproj", "{BAD251E0-B774-45AF-A0DD-2B9DCC44410B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List Of Predicates", "List Of Predicates\List Of Predicates.csproj", "{ABF875E6-E7F2-4EA0-BE5B-BBBBC27DD5A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predicates For Names", "Predicates For Names\Predicates For Names.csproj", "{AA8A464D-8F1E-4BB9-87A5-70B5733A0322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predicate Party", "Predicate Partyu\Predicate Party.csproj", "{C10EC0AD-C279-4D59-9508-BA802E43799A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FFBA8B5-D73C-4511-AA64-AEB76C63D683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFBA8B5-D73C-4511-AA64-AEB76C63D683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFBA8B5-D73C-4511-AA64-AEB76C63D683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFBA8B5-D73C-4511-AA64-AEB76C63D683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BDA2E40-E2C9-4657-90E1-DE22FE5FE89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDA2E40-E2C9-4657-90E1-DE22FE5FE89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDA2E40-E2C9-4657-90E1-DE22FE5FE89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDA2E40-E2C9-4657-90E1-DE22FE5FE89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D0CB87-84B6-4DAB-BA72-78999E9F234D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D0CB87-84B6-4DAB-BA72-78999E9F234D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D0CB87-84B6-4DAB-BA72-78999E9F234D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D0CB87-84B6-4DAB-BA72-78999E9F234D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD251E0-B774-45AF-A0DD-2B9DCC44410B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD251E0-B774-45AF-A0DD-2B9DCC44410B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD251E0-B774-45AF-A0DD-2B9DCC44410B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD251E0-B774-45AF-A0DD-2B9DCC44410B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF875E6-E7F2-4EA0-BE5B-BBBBC27DD5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF875E6-E7F2-4EA0-BE5B-BBBBC27DD5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF875E6-E7F2-4EA0-BE5B-BBBBC27DD5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF875E6-E7F2-4EA0-BE5B-BBBBC27DD5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8A464D-8F1E-4BB9-87A5-70B5733A0322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8A464D-8F1E-4BB9-87A5-70B5733A0322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8A464D-8F1E-4BB9-87A5-70B5733A0322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8A464D-8F1E-4BB9-87A5-70B5733A0322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10EC0AD-C279-4D59-9508-BA802E43799A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10EC0AD-C279-4D59-9508-BA802E43799A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10EC0AD-C279-4D59-9508-BA802E43799A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10EC0AD-C279-4D59-9508-BA802E43799A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D09B08-764C-42B4-AA59-5CDE961B3775}
+	EndGlobalSection
+EndGlobal

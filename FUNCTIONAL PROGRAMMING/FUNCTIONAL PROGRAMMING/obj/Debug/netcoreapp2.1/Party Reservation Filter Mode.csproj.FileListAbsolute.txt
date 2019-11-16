@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\bin\Debug\netcoreapp2.1\Party Reservation Filter Mode.deps.json
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\bin\Debug\netcoreapp2.1\Party Reservation Filter Mode.runtimeconfig.json
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\bin\Debug\netcoreapp2.1\Party Reservation Filter Mode.runtimeconfig.dev.json
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\bin\Debug\netcoreapp2.1\Party Reservation Filter Mode.dll
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\bin\Debug\netcoreapp2.1\Party Reservation Filter Mode.pdb
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.1\Party Reservation Filter Mode.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.1\Party Reservation Filter Mode.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.1\Party Reservation Filter Mode.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.1\Party Reservation Filter Mode.AssemblyInfo.cs
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.1\Party Reservation Filter Mode.dll
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\obj\Debug\netcoreapp2.1\Party Reservation Filter Mode.pdb

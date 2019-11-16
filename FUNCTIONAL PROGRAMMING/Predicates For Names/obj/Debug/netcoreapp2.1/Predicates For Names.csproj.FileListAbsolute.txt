@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Predicates For Names\bin\Debug\netcoreapp2.1\Predicates For Names.deps.json
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Predicates For Names\bin\Debug\netcoreapp2.1\Predicates For Names.runtimeconfig.json
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Predicates For Names\bin\Debug\netcoreapp2.1\Predicates For Names.runtimeconfig.dev.json
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Predicates For Names\bin\Debug\netcoreapp2.1\Predicates For Names.dll
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Predicates For Names\bin\Debug\netcoreapp2.1\Predicates For Names.pdb
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Predicates For Names\obj\Debug\netcoreapp2.1\Predicates For Names.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Predicates For Names\obj\Debug\netcoreapp2.1\Predicates For Names.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Predicates For Names\obj\Debug\netcoreapp2.1\Predicates For Names.AssemblyInfo.cs
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Predicates For Names\obj\Debug\netcoreapp2.1\Predicates For Names.dll
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Predicates For Names\obj\Debug\netcoreapp2.1\Predicates For Names.pdb

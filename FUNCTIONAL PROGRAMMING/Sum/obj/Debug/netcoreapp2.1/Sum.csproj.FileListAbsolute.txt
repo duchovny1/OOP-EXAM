@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\bin\Debug\netcoreapp2.1\Sum.deps.json
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\bin\Debug\netcoreapp2.1\Sum.runtimeconfig.json
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\bin\Debug\netcoreapp2.1\Sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\bin\Debug\netcoreapp2.1\Sum.dll
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\bin\Debug\netcoreapp2.1\Sum.pdb
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\obj\Debug\netcoreapp2.1\Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\obj\Debug\netcoreapp2.1\Sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\obj\Debug\netcoreapp2.1\Sum.AssemblyInfo.cs
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\obj\Debug\netcoreapp2.1\Sum.dll
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\obj\Debug\netcoreapp2.1\Sum.pdb
+C:\Users\User\source\repos\FUNCTIONAL PROGRAMMING\Sum\obj\Debug\netcoreapp2.1\Sum.csprojAssemblyReference.cache
